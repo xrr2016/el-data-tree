@@ -1,4 +1,4 @@
-拖拽树的节点，需后端配合
+拖拽树的节点示例
 
 ```vue
 <template>
@@ -45,7 +45,7 @@ export default {
       return this.$axios.delete(this.deleteUrl, data)
     },
     /**
-     * 算法如下
+     * 示例算法
      * 假设node为拖拽的节点，拖拽后的顺序为: prev, node, next, 则 sort = prev.sort
      * @param dragNode
      * @param dropNode
