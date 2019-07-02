@@ -157,7 +157,7 @@ yarn add @femessage/el-data-tree
 
 ### Global Register Component
 
-This is for minification reason: in this way building your app, webpack or other bundler just bundle the dependencies into one vendor for all pages which     using this component, instead of one vendor for one page
+This is for minification reason: in this way building your app, webpack or other bundler just bundle the dependencies into one vendor for all pages which using this component, instead of one vendor for one page
 
 ```javascript
 import Vue from 'vue'
@@ -211,10 +211,13 @@ Vue.prototype.$axios = axios
 
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):<br />This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!<br />[⬆ Back to Top](#table-of-contents)
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):<br />This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-<a name="License"></a>
+[⬆ Back to Top](#table-of-contents)
+
 
 ## License
 
-[MIT](./LICENSE)<br />[⬆ Back to Top](#table-of-contents)
+[MIT](./LICENSE)
+
+[⬆ Back to Top](#table-of-contents)
